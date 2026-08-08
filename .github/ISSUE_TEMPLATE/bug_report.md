@@ -15,6 +15,13 @@ Before submitting:
 - Please remove any personal or sensitive information from logs or screenshots.
 -->
 
+## ✔ Checklist
+
+- [ ] I am using the latest available version.
+- [ ] I searched existing issues and did not find the same problem.
+- [ ] I included enough information to reproduce or investigate the issue.
+- [ ] I removed personal or sensitive information from anything I attached.
+
 ## 🐛 Describe the Bug
 
 <!--
@@ -95,11 +102,3 @@ Use a code block for short logs or attach a file for long logs.
 Add anything else that may help understand or reproduce the problem.
 -->
 
-
-
-## ✔ Checklist
-
-- [ ] I am using the latest available version.
-- [ ] I searched existing issues and did not find the same problem.
-- [ ] I included enough information to reproduce or investigate the issue.
-- [ ] I removed personal or sensitive information from anything I attached.
