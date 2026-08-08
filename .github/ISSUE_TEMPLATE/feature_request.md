@@ -12,6 +12,13 @@ Thank you for sharing an idea.
 Suggestions are always welcome. Please keep in mind that projects are developed in my free time, so a requested feature may not always be possible or may take time to implement.
 -->
 
+## ✔ Checklist
+
+- [ ] I searched existing issues and did not find the same request.
+- [ ] This request relates to the purpose of the project.
+- [ ] I have explained what the feature would improve or solve.
+
+
 ## 💡 Feature Request
 
 <!--
